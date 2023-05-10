@@ -1,0 +1,8 @@
+1. Паттерны
+
+https://www.youtube.com/watch?v=S0e_5a2WB60&t=614s&ab_channel=UlbiTV
+https://www.youtube.com/watch?v=uKtRSmO8ALk&t=1407s&ab_channel=MaksimZhashkevych
+
+2. OS - ubuntu 20(2).04 / debian / centos (! windows !)
+
+3. 
